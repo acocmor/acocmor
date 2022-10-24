@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Acocmor
-- 👀 I'm a C Sharp programmer
+- 👀 I'm a Web developer
 - 🌱 Contact me:
     *Facebook: https://www.facebook.com/100006475485612
     *Email: tienanh.tb.2012@gmail.com
